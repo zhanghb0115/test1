@@ -1,0 +1,4 @@
+1.»Ö¸´ÎÄ¼þ
+git status
+git reset HEAD XXX.file
+git checkout     XXX.file
